@@ -1,0 +1,20 @@
+.box{
+  min-height: 16em;
+  border: 1px solid #000000;
+}
+
+.blue{
+  background-color: #334d4d;
+}
+
+.green{
+  background-color: #f06d06;
+}
+
+.yellow{
+  background-color: #cc00ff;
+}
+
+.red{
+  background-color: #00264d;
+}
